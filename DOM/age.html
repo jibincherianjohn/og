@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="bg-black text-white p-5 container w-50 text-center ">
+        <h1 class="text-center">Age Eligibility</h1>
+        <input id="aa"  class="form control  mt-5" type="text" placeholder=" enter Age">
+        <button type="button" onclick="ageCheck()" class="btn btn-info mt-5" >check</button>
+    </div>
+</body>
+<script>
+    function ageCheck(){
+        // age=parseInt(document.getElementById('aa').value)
+        age=parseInt(aa.value)
+        if(age>=18){
+            alert(`${age} is eligible`)
+        }
+        else {
+            alert(`${age} is not eligible`)
+        }
+    }
+</script>
+</html>

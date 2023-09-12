@@ -1,0 +1,68 @@
+....OOPS(Objiect Oreinted Programming )
+........////..........................\
+Prodecural Programming
+Object  Oreinted mProgramming
+
+class -designn/Blueprint/Structure
+object - Real world Entity
+referrence- to store object  for futher operation (same as varaiable)
+
+
+
+...Identifers...
+- varaiables
+- class name 
+- method name
+
+methods attribute to class attrbutes
+
+this - instance keyword  - is ued to create instance varaiable (class attribute)
+ 
+ constructor - is used to intailize object at the time  of object creation
+
+1 Inheritance- used to acess properties(methods& Attribuets) of one class in another class
+
+2 Polymorphism - means  manyforms(many shape)- method overloading(java script dosent support overloading), method overriding
+
+3 Abstraction - hiding background details showing only needed data 
+
+4 Enacapulastion -binding data and code  into single one or unit
+
+   
+    ... Inheritance ....
+ .. 1 -used to acess properties(methods& Attribuets) of one class in another class or
+ one class attain properties of another class
+
+ TYpe of Inhertiance
+ 1- single Inhertiance - (one base class one child class)
+ 2- multiple Inhertiance- ( a subclass can inherit from two or more superclasses or mutiple base class  single child ) it doesn't support in java scrpit
+ 3- multilevel Inhertiance /heriarchical Inhertiance -()
+
+.............   Polymorphism ..........
+
+means  manyforms(many shape)
+types
+1 - method overloading - same method name but different arguments (java script doentsupport overloading)
+2 - method overriding -  base class and derived class  having same method name and  same agruments,-last created method over-rides other method
+ 
+    .......... Abstraction ............ 
+
+     Hiding background details showing only needed data 
+
+     ............ Encapulation.............
+
+Binding data and code  into single one or unit
+
+
+
+
+
+
+
+
+
+
+
+
+....................DOM (Document Object Model).......
+                   -used to create dynamic webpage

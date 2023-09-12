@@ -1,0 +1,11 @@
+...................DOM (Document Object Model).......
+                   - used to create dynamic webpage
+
+
+......... Dom -Methods....      
+
+1.document.getElemntsTagName('Tag Name)
+2.document.getElemntById('id')
+3.document.getElemntByClassName('class name')
+5.document.querySelector('Tag name /.classname/#id ' )-single Elemnt
+6.document.querySelectorAll('tag Name/.classname/#id') - collection of elemnts
